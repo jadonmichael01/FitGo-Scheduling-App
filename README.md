@@ -5,6 +5,9 @@ Designed a platform for fitness centers to have a service for scheduling daily w
 in an  application that applies a hybrid online and in-person model. 
 
 Used python's streamlit library importation to run the application on a website
+
 "streamlit run app.py" (terminal code to run application)
+
+Do not user the github pages, simply run the streamlit app.py
 
 Implemented HarperDB for the dbms 
